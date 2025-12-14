@@ -1,5 +1,7 @@
 # AI Smart Prioritization for Anki
+
 **Anki Addon:** https://ankiweb.net/shared/info/1550760085
+
 This add-on uses OpenAI (e.g., GPT-4o or GPT-5-mini) to intelligently analyze your Anki cards and assign them a priority tag (`prio:1` to `prio:4`) based on their importance relative to the deck topic.
 
 ## 🚀 Features
