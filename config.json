@@ -1,5 +1,8 @@
 {
-    "api_key": "",
-    "model": "gpt-5-mini",
+    "provider": "openai",
+    "openai_api_key": "",
+    "gemini_api_key": "",
+    "openai_model": "gpt-5-mini",
+    "gemini_model": "gemini-1.5-flash",
     "batch_size": 10
 }

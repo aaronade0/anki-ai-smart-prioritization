@@ -1,6 +1,6 @@
 {
-    "name": "AI Smart Prioritization",
+    "name": "AI Smart Prioritization (OpenAI & Gemini)",
     "package": "anki_smart_prio",
     "dependencies": [],
-    "human_version": "1.0.0"
+    "human_version": "1.1.0"
 }
